@@ -13,15 +13,14 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interested in Seattle Air BNB data to understand:
+For this project, I was interested in Boston Air BNB data to understand:
 
 1. How to get the listing to be always in demand?
 2. What factors about listing attribute to good review?
-3. How each neighborhood in Seattle performing in terms of occupancy rate?
+3. How each neighborhood in Boston performing in terms of occupancy rate?
 
 
 The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
-
 
 ## File Descriptions <a name="files"></a>
 
@@ -35,5 +34,5 @@ The main findings of the code can be found at the post available [here]()
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to AirBNB for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle/).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to AirBNB for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/Boston/).  Otherwise, feel free to use the code here as you would like! 
 
