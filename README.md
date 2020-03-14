@@ -15,9 +15,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interested in Boston Air BNB data to understand:
 
-1. How to get the listing to be always in demand?
+1. What is the biggest contributing factors to high price of listing? 
 2. What factors about listing attribute to good review?
-3. How each neighborhood in Boston performing in terms of occupancy rate?
+3. How each neighborhood in Boston performing in terms of ratings?
 
 
 The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
