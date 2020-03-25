@@ -30,7 +30,7 @@ There is an additional `.py` file that runs the necessary code to obtain the fin
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]()
+The main findings of the code can be found at the post available [here](https://medium.com/@o.dwisaputro/how-to-check-good-airbnb-listing-8a5cb7354f2d)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
