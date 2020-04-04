@@ -9,7 +9,10 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+Anaconda 4.5.11 distribution
+Python 3.6
+
+Full details of library are written on requirements.txt
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -24,9 +27,7 @@ The full set of files related to this course are owned by Udacity, so they are n
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
-
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+1. Neighborhood_performance.ipynb : This notebook provide answer for question no 1 : How each neighborhood in Boston performing in terms of ratings? 
 
 ## Results<a name="results"></a>
 
