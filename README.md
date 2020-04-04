@@ -27,7 +27,11 @@ The full set of files related to this course are owned by Udacity, so they are n
 
 ## File Descriptions <a name="files"></a>
 
-1. Neighborhood_performance.ipynb : This notebook provide answer for question no 1 : How each neighborhood in Boston performing in terms of ratings? 
+There are 2 notebooks available here to showcase work related to the above questions. 
+
+1. Neighborhood_performance.ipynb : This notebook provide analysis for question no 1 : How each neighborhood in Boston performing in terms of ratings? 
+2. Quality_listing.ipynb : This notebook provide analysis for question no 2 and 3, and also prediction modeling for ratings.
+
 
 ## Results<a name="results"></a>
 
